@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick AND simple.
 No FF.dev branc 
+No FF."Git is a free software ..." 
